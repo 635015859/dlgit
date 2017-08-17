@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.itheima.jiujiusport</groupId>
+  <artifactId>parent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>jiujiusport-comon</module>
+  	<module>jiujiusport-console</module>
+  	<module>jiujiusport-dao</module>
+  	<module>jiujiusport-interface</module>
+  	<module>jiujiusport-login</module>
+  	<module>jiujiusport-pojo</module>
+  	<module>jiujiusport-portal</module>
+  	<module>jiujiusport-service-buyer</module>
+  	<module>jiujiusport-service-cms</module>
+  	<module>jiujiusport-service-product</module>
+  	<module>jiujiusport-service-solr</module>
+  </modules>
+</project>
